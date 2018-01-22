@@ -1,0 +1,22 @@
+<table class="w3-table w3-centered w3-hoverable">
+    <tr>
+        <th>Equipe</th>
+        <th>Pts.</th>
+    </tr>
+    <tr>
+        <td>PHOTON</td> 
+        <td>48</td> 
+    </tr>
+    <tr>
+        <td>FAST</td> 
+        <td>42</td> 
+    </tr>
+    <tr>
+        <td>PLATINUM</td> 
+        <td>41</td> 
+    </tr>
+    <tr>
+        <td>PREMIUM</td> 
+        <td>33</td> 
+    </tr>
+</table>

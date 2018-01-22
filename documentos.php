@@ -1,0 +1,2 @@
+<p><i class="fa fa-file-pdf-o"></i><a href="./pdf/VALE.pdf" target="_blank"> Vale</a></p>
+<p><i class="fa fa-file-excel-o"></i><a href="./pdf/ETIQUETA_CORREIOS.xlsx" target="_blank"> Etiqueta Correios</a></p>
